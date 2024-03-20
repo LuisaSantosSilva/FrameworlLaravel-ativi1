@@ -19,6 +19,9 @@ Atividade solicitada:
 - Antes de versionar no GitHub editar o arquivo  .GITIGNORE (apagar o .ENV)
 - Fazer upload para o GitHub do projeto funcionando.
 
+Aplicação em funcionamento:<br>
+ [![Vídeo](https://img.shields.io/badge/Vídeo-8B0000?style=for-the-badge)](https://drive.google.com/file/d/1sA-O9VzHxlYjraWtIXiN3PVw_LDWb9r9/view?usp=sharing)
+ 
 ##
 **Contatos:**
 
